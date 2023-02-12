@@ -21,7 +21,6 @@ public class BenefitActivity extends AppCompatActivity {
 
     ArrayList<BenefitModel> data = new ArrayList<>();
 
-
     Cursor cursor;
     //	SimpleCursorAdapter adapter;
     BenefitAdapter adapter;
